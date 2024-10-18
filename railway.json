@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "nodejs"
+  },
+  "start": "node server.js"
+}
